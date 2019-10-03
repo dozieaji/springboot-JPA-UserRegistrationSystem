@@ -1,0 +1,8 @@
+com\knowledgefactory\knowledgefactorydemo\KnowledgefactorydemoApplication.class
+com\knowledgefactory\knowledgefactorydemo\WebController.class
+com\knowledgefactory\service\UserServiceImpl.class
+com\knowledgefactory\knowledgefactorydemo\HomeController.class
+com\knowledgefactory\Repository\UserRepository.class
+com\knowledgefactory\VO\UserVo.class
+com\knowledgefactory\Entity\User.class
+com\knowledgefactory\service\UserService.class
